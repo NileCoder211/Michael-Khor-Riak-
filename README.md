@@ -1,1 +1,1 @@
-# Michael-Khor-Riak-
+# Michael-Khor-Riak- I'm currently a student who has great passion in Tech world.My goals are to improve efficiency, increase access to information and enhance communication in Tech world.Furthermore,am also interested in meeting human needs and to solve their problems as well.I'm currently learning full stack web development skills including JavaScript,React,Next.js for frontend dev,and Node.js,Express.js,MongoDB and REST APIs for backend You can reach me out through this email, nilecoder8@gmail.com or my phone number+254745653399
